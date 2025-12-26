@@ -1971,7 +1971,29 @@
         padding: 18px 16px 26px;
       }
     }
-
+    .hero-section {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+    }
+    
+    .hero-video-wrap {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+    }
+    
+    /* FIX ROBUSTO */
+    .hero-video {
+      position: absolute;
+      inset: 0;
+      width: 100% !important;
+      height: 100% !important;
+      object-fit: cover !important;
+      object-position: center !important;
+      display: block;
+    }
   </style>
 </head>
 <body>
@@ -7881,3 +7903,4 @@
 
 </body>
 </html>
+
