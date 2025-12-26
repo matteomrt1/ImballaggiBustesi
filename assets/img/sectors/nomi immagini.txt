@@ -1,0 +1,9 @@
+logistica.jpg
+      automotive.jpg
+      alimentare-beverage.jpg
+      costruzioni.jpg
+      traslochi.jpg
+      fiere-negozi.jpg
+      stampa-grafica.jpg
+      mobile.jpg
+      bricolage-faidate.jpg
